@@ -73,7 +73,7 @@ Post-Order: 20 40 30 60 80 70 50
 ```
 
 ## Autor
-Eddy Alexander Amperez Carranza  
+Gustavo Rafael Juarez Mendoza  
 Universidad Da Vinci de Guatemala — 2025
 
 ---
