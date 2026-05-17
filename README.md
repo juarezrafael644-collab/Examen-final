@@ -77,4 +77,4 @@ Gustavo Rafael Juarez Mendoza
 Universidad Da Vinci de Guatemala — 2025
 
 ---
-> Video de defensa: [Enlace YouTube aqui]
+> Video de defensa: https://youtu.be/fTOjlI1ghwk
